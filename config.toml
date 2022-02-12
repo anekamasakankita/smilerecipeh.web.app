@@ -1,6 +1,6 @@
-baseURL = "https://collectionrecipes.web.app/"
+baseURL = "https://recipemommy.web.app/"
 languageCode = "en-us"
-title = "Collection Recipes"
+title = "Recipe Mommy"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "Place to find your favorite recipes"
   topdescription = "Place to find your favorite recipes"
-  toptitle = "Collection Recipes"
+  toptitle = "Recipe Mommy"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Elena"
-    homepage = "https://collectionrecipes.web.app/"
+    homepage = "https://recipemommy.web.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

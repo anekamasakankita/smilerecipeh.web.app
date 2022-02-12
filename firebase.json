@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "collectionrecipes",
+    "site": "recipemommy",
     "public": "public",
     "ignore": [
       "firebase.json",
