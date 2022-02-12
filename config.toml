@@ -1,6 +1,6 @@
-baseURL = "https://recipeskitchen.web.app/"
+baseURL = "https://smilerecipeh.web.app/"
 languageCode = "en-us"
-title = "Recipe Kitchen"
+title = "Smile Recipeh"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "Place to find your favorite recipes"
   topdescription = "Place to find your favorite recipes"
-  toptitle = "Recipe Kitchen"
+  toptitle = "Smile Recipeh"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -41,7 +41,7 @@ theme = "z"
 
 [author]
     name = "Elena"
-    homepage = "https://recipeskitchen.web.app/"
+    homepage = "https://smilerecipeh.web.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "recipeskitchen",
+    "site": "smilerecipeh",
     "public": "public",
     "ignore": [
       "firebase.json",
